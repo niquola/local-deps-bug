@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {c {:local/root "libs/c" :deps/manifest :deps}}}

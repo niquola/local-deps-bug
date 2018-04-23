@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {b {:local/root "../b" :deps/manifest :deps}}}
